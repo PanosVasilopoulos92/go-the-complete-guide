@@ -1,0 +1,1 @@
+This repository was created for the Udemy course "Go-the-complete-guide" and contains, mainly, exercises and applications that tutor has assigned.
